@@ -80,6 +80,7 @@ export default {
 }
 
 body {
+    
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
